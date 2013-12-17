@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Geliştirici Konsolu</string>
+    <string name="action_backward">Geri</string>
+    <string name="action_forward">İleri</string>
+    <string name="action_refresh">Yenile</string>
+    
+    <string name="warning_error_loading">Sayfa yüklenirken hata oluştu: </string>
+    <string name="warning_error_connection">Bağlantı Hatası</string>
+
+</resources>
