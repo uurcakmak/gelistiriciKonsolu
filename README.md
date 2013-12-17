@@ -9,4 +9,6 @@ In order to monitor device's internet connection, application uses "ACCESS_NETWO
 You can download the app from Google Play: 
 https://play.google.com/store/apps/details?id=com.ugurcakmak.gelistiricikonsolu
 
+Application depends on actionbarsherlock. It's advised to download the latest library and import it as usual. Please note that library name was used as "actionbarsherlock" in Eclipse.
+
 Developer Console is licensed with GPLv2
